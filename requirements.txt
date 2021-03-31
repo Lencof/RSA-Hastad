@@ -1,1 +1,6 @@
-
+binascii
+b64decode
+cryptography
+requests
+pycryptodome
+pyinstaller

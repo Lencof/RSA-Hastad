@@ -1,1 +1,1 @@
-
+pyinstaller -w -F RSA-Hastad/rsaHastad.py
